@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Onabanjo Michael</h1>
-<h3 align="center">I'm passionate about Machine Learning and Data Science. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in computing power and the freedom to take a large amount of data really pushes the field of Data Science and Machine Learning to a whole new level.</h3>
+<h3 align="center">As a recent graduate of Electrical and Electronics Engineering, I am passionate about climate action, sustainability, and the health sector. With the development of technology, I believe there is enormous potential for Artificial Intelligence in addressing environmental and healthcare challenges. The rapid advancement in computing power and the ability to analyze vast amounts of data elevate the fields of Data Science and AI, enabling innovative solutions for a sustainable future and improved health outcomes.</h3>
 <img  align="right"  alt="Coding"  width="400"  src=
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onabanjomicheal&label=Profile%20views&color=0e75b6&style=flat" alt="onabanjomicheal" /> </p>
