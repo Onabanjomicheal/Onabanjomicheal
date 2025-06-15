@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Onabanjo Michael</h1>
-<h3 align="center">As a recent graduate of Electrical and Electronics Engineering, I am passionate about climate action, sustainability, and the health sector. With the development of technology, I believe there is enormous potential for Artificial Intelligence in addressing environmental and healthcare challenges. The rapid advancement in computing power and the ability to analyze vast amounts of data elevate the fields of Data Science and AI, enabling innovative solutions for a sustainable future and improved health outcomes.</h3>
+<h3 align="center">I’m a recent graduate of Electrical and Electronics Engineering with a passion for sustainable mobility, intelligent systems, and climate-resilient infrastructure. My interests lie at the intersection of Artificial Intelligence and sustainable development, where I believe technology can drive real impact. I'm particularly focused on how AI, data science, and autonomous systems can be applied to reduce traffic congestion, accelerate electric vehicle adoption, and improve transportation safety and education outcomes—especially in developing regions.</h3>
 <img  align="right"  alt="Coding"  width="400"  src=
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onabanjomicheal&label=Profile%20views&color=0e75b6&style=flat" alt="onabanjomicheal" /> </p>
@@ -10,8 +10,6 @@
 - 💬 Ask me about **numpy, pandas, sklearn,**
 
 - 📫 How to reach me **onabanjomichael0@gmail.com**
-
-- ⚡ Fun fact **I think i am little fuuny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
