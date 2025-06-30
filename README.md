@@ -18,7 +18,7 @@ Lets collaborate on:
 - **Battery Management Systems (BMS)**
 - **Autonomous Transport Safety**
 
-📫 How to reach me **onabanjomichael0@gmail.com**
+📫 How to reach me **Onabanjomichael01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
