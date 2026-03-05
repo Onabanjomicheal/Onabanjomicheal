@@ -1,27 +1,115 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Onabanjo Michael— a recent Electrical and Electronics Engineering graduate</h1>
-<h1>Just imagine an equitable and fair transportation system where commuters live their lives free of fear of accidents, endless delays, or harmful pollution. 🌍✨ That's the future we're striving to build! 😊</h1>
+# Onabanjo Michael Oluwatobi
 
-My vision for transportation policy is rooted in the pursuit of efficiency, sustainability, and safety. I am committed to: 
-- **Reducing traffic congestion**—not merely for convenience, but to unlock significant economic productivity, lower emissions, and enhance quality of life.
-- **Accelerating the transition to electric vehicles**, recognizing that this shift is not only vital for reducing emissions but also for fostering public health, advancing energy independence, and strengthening environmental resilience.
-- **Promoting responsible traffic behavior**, ensuring that roadways are governed by respect, compliance, and shared accountability, thereby improving overall efficiency and safety.
-- **Advancing autonomous vehicle technologies**, with the aim of dramatically improving transportation safety, reducing human error, and setting new standards for mobility innovation.
+### Transport Systems Researcher · ML Engineer · EEE Graduate
 
-Together, these commitments form the foundation of a forward-looking transportation system that serves both current and future generations.
+[![Twitter](https://img.shields.io/badge/Twitter-@onabanjomico-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/onabanjomico)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-micheal--onabanjo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheal-onabanjo)
+[![Email](https://img.shields.io/badge/Email-Onabanjomicheal01@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Onabanjomicheal01@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Onabanjomicheal?label=Follow&style=flat-square&color=green)](https://github.com/Onabanjomicheal)
 
-📫 How to reach me **Onabanjomichael01@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/onabanjomico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onabanjomico" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/micheal-onabanjo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micheal-onabanjo/" height="30" width="40" /></a>
-</p>
+---
 
+## 👋 About Me
 
+I'm a recent **Electrical & Electronics Engineering** graduate from **Olabisi Onabanjo University, Lagos, Nigeria**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onabanjomicheal&show_icons=true&locale=en&layout=compact" alt="onabanjomicheal" /></p>
+My work sits at the intersection of **machine learning**, **traffic engineering**, and **sustainable urban mobility**. I use Deep Reinforcement Learning, SUMO simulation, and data science to tackle real transportation challenges in African cities.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onabanjomicheal&show_icons=true&locale=en" alt="onabanjomicheal" /></p>
+> *"Imagine an equitable and fair transportation system where commuters live free of fear of accidents, endless delays, or harmful pollution."*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onabanjomicheal&" alt="onabanjomicheal" /></p>
+---
+
+## 🔬 Research & Interest Areas
+
+| Domain | Tools & Methods |
+|--------|----------------|
+| 🚦 Adaptive Traffic Signal Control | DQN, SUMO, TraCI, Python |
+| 🤖 Autonomous Vehicle Simulation | SUMO, Car-Following Models |
+| 🌍 Urban Mobility & Emissions | QGIS, GeoPandas, Data Analysis |
+| 🧠 Deep Learning & MLOps | TensorFlow, AWS, CI/CD |
+| 📊 Data Science & Forecasting | Pandas, Scikit-learn, Time Series |
+| ⚡ Energy & Logistics Analytics | Forecasting, EDA, Visualisation |
+
+---
+
+## 🚀 Featured Projects
+
+### 🚦 [Adaptive Traffic Signal — DQN](https://github.com/Onabanjomicheal/Adaptive-Traffic-Signal-DQN)
+Deep Q-Network agent optimizing traffic signal timing in SUMO, modeled on Lagos traffic.
+`Python` `DQN` `SUMO` `Deep RL` `TraCI`
+
+### 🌉 [Third Mainland Bridge AV/HDV Simulation](https://github.com/Onabanjomicheal/third-mainland-av-hdv-simulation)
+Analyzing traffic, emissions, and platooning effects of AV penetration on Third Mainland Bridge.
+`Python` `SUMO` `Autonomous Vehicles` `Platooning` `Lagos`
+
+### 🧠 [Deep Flow Optimizer](https://github.com/Onabanjomicheal/Deep-Flow-Optimizer)
+Deep RL framework for urban traffic signal optimization and spillback mitigation.
+`Python` `SUMO` `DQN` `Traffic Optimization`
+
+### 🚨 [Emergency Vehicle Preemption](https://github.com/Onabanjomicheal/Emergency-Vehicle-Preemption)
+Dynamic traffic signal preemption system for emergency vehicles in SUMO.
+`Python` `SUMO` `TraCI` `Signal Preemption`
+
+### 🏥 [Kidney Disease Classification — MLOps on AWS](https://github.com/Onabanjomicheal/Kidney-Disease-Classification-MLOps-AWS)
+Deep learning classifier with full MLOps pipeline deployed on AWS.
+`Python` `TensorFlow` `AWS` `MLOps` `Healthcare AI`
+
+### 🚚 [Delivery Logistics Data Analysis](https://github.com/Onabanjomicheal/Delivery-Logistics-Data-Analysis)
+Uncovering key drivers of delivery delays in Delhivery's logistics network.
+`Python` `Pandas` `EDA` `Supply Chain`
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages     │ Python, MATLAB
+Simulation    │ SUMO, TraCI
+ML / DL       │ TensorFlow, PyTorch, Scikit-learn
+MLOps         │ AWS, Docker, CI/CD
+Data          │ Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Geospatial    │ QGIS, GeoPandas
+Tools         │ Git, Jupyter, VS Code
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onabanjomicheal&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onabanjomicheal&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9)
+
+</div>
+
+---
+
+## 🌍 Vision
+
+- **Reducing traffic congestion** — unlocking economic productivity and lowering emissions
+- **Accelerating EV adoption** — for public health, energy independence, and sustainability
+- **Responsible road behaviour** — shared accountability for safer, efficient roads
+- **Advancing autonomous vehicles** — improving safety and setting new mobility standards
+
+---
+
+## 📬 Get In Touch
+
+- 📧 [Onabanjomicheal01@gmail.com](mailto:Onabanjomicheal01@gmail.com)
+- 💼 [linkedin.com/in/micheal-onabanjo](https://www.linkedin.com/in/micheal-onabanjo)
+- 🐦 [@onabanjomico](https://twitter.com/onabanjomico)
+- 📍 Lagos, Nigeria
+
+---
+
+<div align="center">
+
+*Building intelligent transport systems for African cities — one commit at a time.*
+
+</div>
