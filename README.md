@@ -23,18 +23,9 @@
 
 **Onabanjo Michael Oluwatobi** is working at the intersection of **machine learning**, **transportation engineering**, and **logistics systems**.
 
-My work is driven by a frustrations and spheres of experineces from my childhood till this moment: **movement is broken.** Packages arrive late. Commuters sit in traffic for hours. Emergency vehicles crawl through gridlock. Supply chains fail at the last mile.
+> *"Movement is the lifeblood of any economy. When it breaks down, whether a delivery that never arrives or a city brought to a standstill, people and businesses pay the price."*
 
-I build end-to-end solutions that span the full mobility stack:
-
-- 🚦 **Urban Traffic Systems** — Deep Reinforcement Learning and SUMO microsimulation to optimize signal timing, reduce congestion, and cut emissions at intersections
-- 🚚 **Logistics & Delivery Intelligence** — analyzing last-mile delivery failures, identifying delay patterns in supply chains, building predictive models to improve fleet and route performance
-- 🌉 **Infrastructure Research** — studying how Autonomous Vehicles change traffic dynamics on real African corridors like Third Mainland Bridge
-- 🚗 **Autonomous & Electric Vehicles** — modelling AV adoption, car-following and lane-changing behaviour, and the infrastructure implications of EV transition across African cities
-- 🧠 **Production ML** — deploying end-to-end pipelines to AWS-hosted inference APIs with MLOps best practices
-- 📊 **Data-Driven Decision Making** — turning messy operational data from logistics networks, energy grids, and supply chains into actionable insight
-
-> *"Movement is the lifeblood of any economy. When it breaks down, whether a delivery that never arrives or a city brought to a standstill, people and businesses pay the price. I build systems that make movement smarter, faster, and fairer."*
+My work is driven by a frustrations and spheres of experineces from my childhood till this moment: **movement is broken.** Packages arrive late. Commuters sit in traffic for hours, Emergency vehicles crawl through gridlock, Supply chains fail at the last mile.
 
 ---
 
@@ -43,14 +34,20 @@ I build end-to-end solutions that span the full mobility stack:
 | Domain | What I Work On |
 |--------|---------------|
 | 🚦 Traffic Signal Optimization | Adaptive signal control, spillback mitigation, DRL agents |
-| 🚗 Autonomous Vehicles | Car-following, lane-changing, AV/HDV mixed traffic |
+| 🚗 Autonomous Vehicles | AV adoption, Mixed Traffic Engineering |
 | ⚡ Electric Vehicle Systems | EV adoption modelling, charging infrastructure data, transition analytics |
 | 🚨 Emergency Response Systems | Signal preemption, priority routing for emergency vehicles |
-| 🚚 Logistics & Last-Mile Delivery | Delay root-cause analysis, route optimization, operational EDA |
-| 📦 Supply Chain Analytics | Network performance, delay drivers, predictive modelling |
-| 🧠 Production Machine Learning | End-to-end ML pipelines, model deployment, MLOps |
-| 📊 Predictive Analytics | Demand forecasting, energy prediction, customer behaviour |
-| 🌍 Geospatial Analysis | Network mapping, spatial pattern analysis, infrastructure GIS |
+| 🚚 Logistics and Supply Chain Analytics | Network performance, route optimization, predictive modelling |
+
+---
+
+## 🌍 What I'm Working Toward
+
+- 🟢 **Congestion-free corridors** — signals that adapt in real time, not fixed cycles set decades ago
+- 🟢 **Zero last-mile failures** — delivery delays predicted and prevented, not just tracked after the fact
+- 🟢 **Safe emergency response** — ambulances and fire trucks with guaranteed paths through any city
+- 🟢 **Autonomous vehicle adoption** — simulation and research proving AVs make roads safer and more efficient
+- 🟢 **Electric vehicle transition** — data infrastructure that makes EV adoption practical across African cities
 
 ---
 
@@ -109,16 +106,6 @@ I build end-to-end solutions that span the full mobility stack:
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 </div>
-
----
-
-## 🌍 What I'm Working Toward
-
-- 🟢 **Congestion-free corridors** — signals that adapt in real time, not fixed cycles set decades ago
-- 🟢 **Zero last-mile failures** — delivery delays predicted and prevented, not just tracked after the fact
-- 🟢 **Safe emergency response** — ambulances and fire trucks with guaranteed paths through any city
-- 🟢 **Autonomous vehicle adoption** — simulation and research proving AVs make roads safer and more efficient
-- 🟢 **Electric vehicle transition** — data infrastructure that makes EV adoption practical across African cities
 
 ---
 
