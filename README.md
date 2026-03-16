@@ -23,7 +23,7 @@
 
 **Onabanjo Michael Oluwatobi** is working at the intersection of **machine learning**, **transportation engineering**, and **logistics systems**.
 
-My work is driven by a frustrations and spheres of experineces from my childhood till this moment: **movement is broken.** Packages arrive late. Commuters sit in traffic for hours. Emergency vehicles crawl through gridlock. Supply chains fail at the last mile. These are not small inconveniences — they are systems problems, and I use data and AI to solve them.
+My work is driven by a frustrations and spheres of experineces from my childhood till this moment: **movement is broken.** Packages arrive late. Commuters sit in traffic for hours. Emergency vehicles crawl through gridlock. Supply chains fail at the last mile.
 
 I build end-to-end solutions that span the full mobility stack:
 
